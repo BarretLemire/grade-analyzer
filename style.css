@@ -1,0 +1,12 @@
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(34, 118, 90);
+    font-family: Arial, sans-serif;
+    margin: 1.2vh
+}
+#output {
+    white-space: pre-wrap; 
+    font-size: 1.2em;
+}
